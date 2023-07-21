@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "A10",
+      "category": "smartphones",
+      "description":"Cool smartphone",
+      "maker":"Samsung"
+    },
+    {
+        "id": 2,
+        "title": "iPhone 10",
+        "category": "smartphones",
+        "description":"",
+        "maker":"Iphone"
+    }
+]
